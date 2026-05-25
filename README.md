@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>MSP Network Engineer · Systems Administrator · Infrastructure & Security</b><br/>
-  📍 Philippines &nbsp;|&nbsp; ITS/UMS &nbsp;|&nbsp; L2/L3 Network · Compliance · Cybersecurity
+  📍 Philippines &nbsp;|&nbsp; L2/L3 Network · Compliance · Cybersecurity
 </p>
 
 <p align="center">
