@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me
 
-Experienced MSP Network Engineer and Systems Administrator with a strong track record across Australian accounting firms and Philippine BPO/accounting companies. I specialize in firewall deployment, infrastructure audits, proactive monitoring, and compliance alignment with industry frameworks including **CIS Controls**, **HIPAA**, **SOC2**, and **NIST**.
+Experienced MSP Network Engineer and Systems Administrator. I specialize in firewall deployment, infrastructure audits, proactive monitoring, and compliance alignment with industry frameworks including **CIS Controls**, **HIPAA**, **SOC2**, and **NIST**.
 
-Currently working at **ITS/UMS**, serving both the Proactive Team and Client Success Team. Conducting full-stack solution audits covering firewalls, M365, EDR, backups, email security, and more.
+Currently working at a US MSP, serving both the Proactive Team and Client Success Team. Conducting full-stack solution audits covering firewalls, M365, EDR, backups, email security, and more.
 
 ---
 
