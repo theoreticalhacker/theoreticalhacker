@@ -56,7 +56,7 @@ A self-hosted homelab environment built for hands-on learning and personal infra
 **Stack:** Pi-hole · Home Assistant · Plex · Terraform · Ubiquiti · Self-hosted services
 
 ### 🤖 [AI & No-Code Automation Lab](https://github.com/theoreticalhacker)
-Exploring the intersection of AI and no-code automation to build practical workflows for IT operations and managed services. Focus areas include intelligent alerting, ticket triage, client reporting automation, and integrating LLMs into day-to-day MSP processes — bridging the gap between traditional infrastructure engineering and modern AI-driven tooling.
+Exploring the intersection of AI and no-code automation to build practical workflows for IT operations and managed services. Focus areas include intelligent alerting, ticket triage, client reporting automation, and integrating LLMs into day-to-day MSP processes. bridging the gap between traditional infrastructure engineering and modern AI-driven tooling.
 
 **Stack:** Claude AI · n8n · Go HighLevel · Zapier · Make.com · Lovable
 
