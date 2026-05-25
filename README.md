@@ -38,14 +38,40 @@ Currently working at a US MSP, serving both the Proactive Team and Client Succes
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-6926D9?style=flat&logoColor=white)
 ![Huntress](https://img.shields.io/badge/Huntress-E8272A?style=flat&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-FF5733?style=flat&logo=splunk&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E2001A?style=flat&logoColor=white)
 ![GRC](https://img.shields.io/badge/GRC-3B6D11?style=flat&logoColor=white)
 
-### 🏗️ Infrastructure & Homelab
+### 🖥️ Server
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat&logo=veeam&logoColor=white)
+![Datto](https://img.shields.io/badge/Datto-007DC6?style=flat&logoColor=white)
+![Kaseya RMM](https://img.shields.io/badge/Kaseya_RMM-E31837?style=flat&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Action1 RMM](https://img.shields.io/badge/Action1_RMM-E85D26?style=flat&logoColor=white)
+
+### 🔧 Infrastructure As Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+### 🏠 Homelab
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-D32F2F?style=flat&logo=pi-hole&logoColor=white)
 ![Plex](https://img.shields.io/badge/Plex-E5A00D?style=flat&logo=plex&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
-
+![Sonarr](https://img.shields.io/badge/Sonarr-35C5F4?style=flat&logo=sonarr&logoColor=white)
+![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=flat&logo=radarr&logoColor=white)
+![Prowlarr](https://img.shields.io/badge/Prowlarr-FF6600?style=flat&logoColor=white)
+![Bazarr](https://img.shields.io/badge/Bazarr-7B68EE?style=flat&logoColor=white)
+![Lidarr](https://img.shields.io/badge/Lidarr-00C6BC?style=flat&logoColor=white)
+![Readarr](https://img.shields.io/badge/Readarr-9B59B6?style=flat&logoColor=white)
+![Overseerr](https://img.shields.io/badge/Overseerr-E4445F?style=flat&logoColor=white)
+![Tdarr](https://img.shields.io/badge/Tdarr-00B4D8?style=flat&logoColor=white)
+![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?style=flat&logo=qbittorrent&logoColor=white)
 ---
 
 ## 🗂 Projects
