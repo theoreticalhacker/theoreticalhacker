@@ -55,6 +55,11 @@ A self-hosted homelab environment built for hands-on learning and personal infra
 
 **Stack:** Pi-hole · Home Assistant · Plex · Terraform · Ubiquiti · Self-hosted services
 
+### 🤖 [AI & No-Code Automation Lab](https://github.com/theoreticalhacker)
+Exploring the intersection of AI and no-code automation to build practical workflows for IT operations and managed services. Focus areas include intelligent alerting, ticket triage, client reporting automation, and integrating LLMs into day-to-day MSP processes — bridging the gap between traditional infrastructure engineering and modern AI-driven tooling.
+
+**Stack:** Claude AI · n8n · Go HighLevel · Zapier · Make.com · Lovable
+
 ---
 
 ## 🏅 Certifications
@@ -71,11 +76,11 @@ A self-hosted homelab environment built for hands-on learning and personal infra
 
 | Area | Details |
 |---|---|
-| 🔐 Security Audits | Full-stack compliance reviews aligned to CIS, HIPAA, SOC2, NIST |
+| 🔐 Security Audits | Full-stack compliance reviews aligned to ISO,CIS, HIPAA, SOC2, NIST |
 | 🌐 Network Engineering | L2/L3 support, VLAN, Dual WAN, VPN, NAT, Firewall rules |
 | ☁️ Cloud Admin | M365, Azure AD, Exchange Online, Entra |
-| 💾 Infrastructure | VMware, Veeam, Dell Servers, PRTG Monitoring |
-| 🌏 Multi-region MSP | Supporting AU & PH clients as 3rd party IT |
+| 💾 Infrastructure | VMware,Datto, Veeam, Dell Servers |
+| 🌏 Multi-region MSP | Supporting US & Canada clients |
 
 ---
 
