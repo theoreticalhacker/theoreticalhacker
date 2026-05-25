@@ -49,7 +49,7 @@ Currently working at a US MSP, serving both the Proactive Team and Client Succes
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Action1 RMM](https://img.shields.io/badge/Action1_RMM-E85D26?style=flat&logoColor=white)
 
-### 🔧 Infrastructure As Code
+### ☁️ Infrastructure As Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -76,14 +76,19 @@ Currently working at a US MSP, serving both the Proactive Team and Client Succes
 ## 🗂 Projects
 
 ### 🏠 [Homelab](https://github.com/theoreticalhacker/Homelab)
-A self-hosted homelab environment built for hands-on learning and personal infrastructure management. Includes network segmentation, self-hosted services, monitoring, and automation tooling.
+A self-hosted homelab environment built for hands-on learning and personal infrastructure management. This is a work in progres. Planning to build a personal homelab, Plex Server with ARRR stack implementation and a home assistant. 
 
-**Stack:** Pi-hole · Home Assistant · Plex · Terraform · Ubiquiti · Self-hosted services
+**Stack:** Pi-hole · Home Assistant · Plex · Terraform · Ubiquiti · Self-hosted services · ARRR stack
 
-### 🤖 [AI & No-Code Automation Lab](https://github.com/theoreticalhacker)
+### 🤖 [AI & No-Code Automation Lab](https://github.com/theoreticalhacker/No-code_automation))
 Exploring the intersection of AI and no-code automation to build practical workflows for IT operations and managed services. Focus areas include intelligent alerting, ticket triage, client reporting automation, and integrating LLMs into day-to-day MSP processes. bridging the gap between traditional infrastructure engineering and modern AI-driven tooling.
 
 **Stack:** Claude AI · n8n · Go HighLevel · Zapier · Make.com · Lovable
+
+### 💾 [Lab Simulator & Documentation]
+This repository will be a collection of different real life scenarios that I will build within the homelab environment. I will make and break systems and document how to resolve it. This could also turn into videos later on. 
+
+**Stack:** M365 · Windows Server · Disaster & Recovery · Security Hardening · IT audits · Documentation
 
 ---
 
