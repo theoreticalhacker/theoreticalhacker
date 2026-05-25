@@ -54,7 +54,6 @@ Currently working at a US MSP, serving both the Proactive Team and Client Succes
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-
 ### 🏠 Homelab
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
@@ -71,6 +70,7 @@ Currently working at a US MSP, serving both the Proactive Team and Client Succes
 ![Overseerr](https://img.shields.io/badge/Overseerr-E4445F?style=flat&logoColor=white)
 ![Tdarr](https://img.shields.io/badge/Tdarr-00B4D8?style=flat&logoColor=white)
 ![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?style=flat&logo=qbittorrent&logoColor=white)
+
 ---
 
 ## 🗂 Projects
